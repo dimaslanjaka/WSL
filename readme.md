@@ -3,7 +3,7 @@
 
 port wsl commands to windows commands.
 
-[idea](https://docs.microsoft.com/en-us/windows/wsl/interop)
+> [source idea](https://docs.microsoft.com/en-us/windows/wsl/interop)
 
 ## How to integrate
 - add this folder into windows path
@@ -25,6 +25,7 @@ wsl commandName %*
 - node
 - apt
 - sudo
+- curl
 
 # Incoming terms
 - call wsl commands from windows
