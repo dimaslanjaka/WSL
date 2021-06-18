@@ -10,7 +10,7 @@ port wsl commands to windows commands.
 - open cmd/powershell
 - type
 ```cmd
-apt update -y
+sudo apt update -y
 ```
 
 ## How to add commands

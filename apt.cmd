@@ -1,2 +1,2 @@
 @echo off
-wsl sudo apt %*
+wsl apt %*
