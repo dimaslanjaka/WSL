@@ -21,11 +21,7 @@ wsl commandName %*
 ```
 
 ## Available commands
-- php
-- node
-- apt
-- sudo
-- curl
+> see all *.cmd files
 
 # Incoming terms
 - call wsl commands from windows
