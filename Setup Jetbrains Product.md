@@ -1,8 +1,15 @@
 # Setup intepreter nodejs on jetbrains idea
 # Requirements
-- node
+- node 
 ```bash
+# set node 12 sources
+sudo apt update -y
+sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+# install node
 sudo apt install nodejs npm -y
+# install c compiler, required for sass, node-gyp, etc
+sudo apt -y  install gcc g++ make
 ```
 - yarn
 ```bash
