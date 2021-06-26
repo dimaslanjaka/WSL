@@ -30,5 +30,9 @@ sudo npm install yarn -g
 /usr/lib/node_modules/npm
 ```
 
-# Screenshots
+# Screenshots NPM
+![image](https://user-images.githubusercontent.com/12471057/123497652-e6a57000-d658-11eb-8976-0812e1cf4f07.png)
+
+
+# Screenshots Yarn
 ![image](https://user-images.githubusercontent.com/12471057/122657066-4fd54100-d18a-11eb-995b-7ba5598f4e4a.png)
