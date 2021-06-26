@@ -13,5 +13,5 @@ echo "Updating npm"
 npm install -g npm
 echo "Installing yarn"
 npm install -g yarn
-echo "Install gyp"
+echo "Installing gyp"
 npm install -g node-gyp
