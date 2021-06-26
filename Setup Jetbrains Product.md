@@ -11,7 +11,7 @@ sudo apt install nodejs npm -y
 # install c compiler, required for sass, node-gyp, etc
 sudo apt -y  install gcc g++ make
 ```
-- yarn
+- using yarn
 ```bash
 sudo npm install yarn -g
 ```
@@ -20,9 +20,14 @@ sudo npm install yarn -g
 - Open Settings
 > Languages and framework > Nodejs And NPM
 > - Node itepreter with your WSL 
-> - Package manager use yarn, fill:
+> - Package manager
+> ## Using Yarn
 ```path
 /usr/local/lib/node_modules/yarn
+```
+> ## Using NPM
+```path
+/usr/lib/node_modules/npm
 ```
 
 # Screenshots
