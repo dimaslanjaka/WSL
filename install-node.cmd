@@ -8,8 +8,7 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 apt install nodejs npm -y
 apt install gcc -y
 apt install g++ -y
-apt install build-essential -y
-apt autoremove -y
+apt install build-essential -y 
 echo "Updating npm"
 npm install -g npm
 echo "Installing yarn"
