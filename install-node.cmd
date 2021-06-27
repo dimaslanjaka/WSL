@@ -9,6 +9,7 @@ sudo aptitude -f install nodejs npm -y
 sudo aptitude -f install gcc -y
 sudo aptitude -f install g++ -y
 sudo aptitude -f install build-essential -y  
+sudo apt-get install autoconf -y
 
 echo "Fix global installation packages"
 mkdir ~/.npm-global
