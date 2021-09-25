@@ -7,6 +7,8 @@ port wsl commands to windows commands.
 
 ## How to integrate
 - add this folder into windows path
+
+## Test
 - open cmd/powershell
 - type
 ```cmd
